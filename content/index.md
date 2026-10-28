@@ -13,5 +13,3 @@ new places around the world.
 
 - [[About]]
 - [[First Travel Update]]
-- [[Travel Journal]]
-- [[Destinations]]
