@@ -1,8 +1,6 @@
 ---
-title: Welcome to Our Travels
+title: Welcome to our Travels
 ---
-# Welcome to Our Travels
-
 Welcome to our travel website.
 
 We're documenting our adventures, experiences,
