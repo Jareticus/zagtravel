@@ -1,5 +1,5 @@
 ---
-title: First Travel Update
+title: First
 ---
 # First Travel Update
 

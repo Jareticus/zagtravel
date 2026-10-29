@@ -12,4 +12,4 @@ new places around the world.
 ## Explore
 
 - [[About]]
-- [[First Travel Update]]
+- [[First]]
