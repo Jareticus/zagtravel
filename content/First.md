@@ -1,5 +1,5 @@
 ---
-title: first
+title: Our First Travel Update
 ---
 # First Travel Update
 
